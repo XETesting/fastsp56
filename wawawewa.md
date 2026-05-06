@@ -1,3 +1,11 @@
-# Wawawewa
+# Hello World
 
-This is a new file created on branch borat.
+## Python Example
+```python
+print("Hello, World!")
+```
+
+## JavaScript Example
+```javascript
+console.log("Hello, World!");
+```
